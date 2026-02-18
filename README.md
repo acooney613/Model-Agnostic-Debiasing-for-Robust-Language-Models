@@ -1,10 +1,10 @@
 # Model-Agnostic Debiasing for Robust Language Models
 
-This repository contains the final project writeup for my NLP course at the University of Texas at Austin (Fall 2025). The essay explores improving large language model (LLM) robustness by mitigating learned biases in training data that cause models to take shortcuts when generating predictions in Natural Language Inference (NLI) tasks.
+This repository contians the final project writeup for my Natural Language Processing (NLP) course at the University of Texas at Austin. The paper explores model-level debiasing techniques in enhancing Large Language Models (LLMs) by removing learned biases in the training data that causes models to take shortcuts when generating predictions in Nature Language Inference (NLI) tasks. This paper specifically examines the ELECTRA language model. 
 
 ## Paper
 
-The full essay is available as `Model-Agnostic Debiasing for Robust Language Models.pdf`.
+The full essay is available as `Enhancing Robustness in Pretrained Language Models via Model-Level Debiasing.pdf`.
 
 ## Code
 
@@ -12,15 +12,9 @@ Code may be made available upon request.
 
 ## Key Contributions
 
-- Analyzed how dataset biases affect LLM reasoning in NLI tasks.  
-- Proposed methods for identifying and mitigating shortcut patterns in model predictions.  
-- Evaluated the impact of bias removal on model robustness and performance.
-
-## Citation
-
-If you reference this work, please cite as:
-
-Aidan Patrick Sanchez-Cooney. "Model-Agnostic Debiasing for Robust Language Models" University of Texas at Austin, NLP Course, Fall 2025.
+- Analyzed dataset biases using CheckList sets for NLI tasks
+- Proposed model-level debiasing techinique to identify and mitigate shortcut patterns in model predictions
+- Evaluated the impact of model-level debiasing on overall robustuness and out-of-distribution sets
 
 ## Contact
 
