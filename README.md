@@ -18,4 +18,4 @@ Code may be made available upon request.
 
 ## Contact
 
-For questions about the paper, please reach me at [aidan.cooney@utexas.edu](mailto:aidan.cooney@utexas.edu).
+For questions about the paper, please reach me at [acooney613@gmail.com](mailto:acooney613@gmail.com)
