@@ -1,6 +1,6 @@
 # Model-Agnostic Debiasing for Robust Language Models
 
-This repository contians the final project writeup for my Natural Language Processing (NLP) course at the University of Texas at Austin. The paper explores model-level debiasing techniques in enhancing Large Language Models (LLMs) by removing learned biases in the training data that causes models to take shortcuts when generating predictions in Nature Language Inference (NLI) tasks. This paper specifically examines the ELECTRA language model. 
+This project contains the final project write-up for my Natural Language Processing (NLP) course at the University of Texas at Austin. The paper explores model-level debiasing techniques in enhancing Large Language Models (LLMs) by removing learned biases in the training data that cause models to take shortcuts when generating predictions in Natural Language Inference (NLI) tasks. This paper specifically examines the ELECTRA language model.
 
 ## Paper
 
